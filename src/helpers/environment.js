@@ -7,7 +7,7 @@ switch (window.location.hostname) {
         APIURL = 'http://localhost:4000';
         break;
 
-    case 'learningapp.herokuapp.com':
+    case 'enam-learningapp.herokuapp.com':
 
         APIURL='https://enam-learningapp.herokuapp.com'
 
